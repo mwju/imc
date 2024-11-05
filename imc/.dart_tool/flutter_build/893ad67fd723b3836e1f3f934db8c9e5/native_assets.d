@@ -1,0 +1,1 @@
+ C:\\Users\\mwjun\\Fontes\\Flutter\\Desafio\ IMC\ Flutter\\imc\\.dart_tool\\flutter_build\\893ad67fd723b3836e1f3f934db8c9e5\\native_assets.yaml: 
